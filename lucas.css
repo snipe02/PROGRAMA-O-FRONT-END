@@ -1,0 +1,20 @@
+.paragrafo {
+    text-indent: 20px;
+    color: darkgray;
+}
+
+#corpo{ 
+    font-family: sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    color: darkgray;
+}
+
+.cinza {
+    color: darkgray
+}
